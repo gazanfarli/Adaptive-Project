@@ -1,0 +1,42 @@
+@media screen and (max-width: 834px){
+    .container{
+        margin: 56px 86.69px 0 72px;
+    }
+    .text-heading{
+        font-size: 32px;
+        margin-bottom: 25px;
+    }
+    .about-course{
+        margin-right: 110px;
+    }
+    .course-description{
+        max-width: 383px;
+        font-size: 14px;
+    }
+    .photographer{
+        width: 181px;
+        height: 182px;
+    }
+    footer{
+        display: flex;
+        margin-top: 80px;
+    }
+    #worker{
+        width: 232px;
+        height: 202px;
+    }
+    .worker-photo{
+        display: none;
+    }
+    .footer-list{
+        width: 360px;
+        margin-top: 0px;
+    }
+    .footer-list-heading{
+        font-size: 15px;
+        margin-bottom: 2px;
+    }
+    .footer-list p{
+        font-size: 11px;
+    }
+}

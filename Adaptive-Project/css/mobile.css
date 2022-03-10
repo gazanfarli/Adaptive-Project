@@ -1,0 +1,47 @@
+@media only screen and (max-width:375px ){
+    .container{
+        margin: 56px 33px 0 33px;
+    }
+    main{
+        flex-direction: column;
+    }
+    .text-heading{
+        font-size: 26px;
+        margin-bottom: 20px;
+    }
+    .about-course{
+        margin-right: 0;
+    }
+    .course-description{
+        max-width: 305px;
+        font-size: 12px;
+        margin-bottom: 15px;
+    }
+    .photographer{
+        width: 146px;
+        height: 146px;
+        margin: 0 auto;
+    }
+    footer{
+        display: flex;
+        margin-top: 80px;
+    }
+    .worker-photo{
+        display: none;
+    }
+    .footer-list{
+        width: 60%;
+        margin-top: 0px;
+        flex-wrap: wrap;
+    }
+    .footer-list li{
+        margin-bottom: 30px;
+    }
+    .footer-list-heading{
+        font-size: 12px;
+        margin-bottom: 2px;
+    }
+    .footer-list p{
+        font-size: 10px;
+    }
+}   
